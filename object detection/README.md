@@ -1,13 +1,8 @@
-# Inception v3 Object Detection
 
-Deployed Web Application: http://objectdetection-env-2.eba-m988fzxm.us-west-2.elasticbeanstalk.com/
 
 # Group Members
 
-Nomsa Patsanza R195892V
+Takunda Madondo R195809K
 
-Simon Peace Jera R195790Y
+Brian Mukono 197341S
 
-Tamuka Gate R195813Z
-
-Sharon Chikwizo R197218X
